@@ -54,7 +54,7 @@
 		</div>
 	</nav>	
 	<div align="center" class="row">
-			<img src="uploadPictures/@Big Bend National Park_02.jpg" alt="Mountain View" style="width:389px;height:291px;">
+			<img src="uploadPictures/Performance at UH.jpg" alt="Mountain View" style="width:389px;height:291px;">
 		
 				<h3> Hello, World! I'm <font color="Blue">Xin Zhou</font> / Xin9186@Gmail.com</h3>
 
@@ -64,6 +64,7 @@
 
 				<h3> CGIM Lab Website: <a href="http://graphics.cs.uh.edu/"> http://graphics.cs.uh.edu/ </a></h3>
 
+				<h3><a href="https://github.com/xzhou29"> My Github</a> </h3>
 				<h3><a href="https://www.linkedin.com/in/xzhou9186"> My Linkedin</a> </h3>
 
 	
