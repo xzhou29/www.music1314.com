@@ -1,0 +1,33 @@
+
+
+				        <div class='col-md-3'>
+
+							<p><strong> </strong> <h4> Skydive 0 0 </h4></p>
+
+								<video width='360'  controls preload='none'>
+
+								  <source src='uploadVideos/Skydive 0 0.mp4' type='video/mp4'>
+
+								  Your browser does not support HTML5 video.
+
+								</video>
+
+						</div>	
+
+	                    
+
+				        <div class='col-md-3'>
+
+							<p><strong> </strong> <h4> Blvd of Broken Dreams（Random Cover） </h4></p>
+
+								<video width='360'  controls preload='none'>
+
+								  <source src='uploadVideos/Blvd of Broken Dreams（Random Cover）.mp4' type='video/mp4'>
+
+								  Your browser does not support HTML5 video.
+
+								</video>
+
+						</div>	
+
+	                    
